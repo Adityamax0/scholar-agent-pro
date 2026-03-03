@@ -18,7 +18,7 @@
 
 <br/>
 
-### 🌐 [**→ Open Live App ←**]([https://your-app.streamlit.app](https://scholar-agent-pro-fzwaxyhzrsr5hmumbfynd3.streamlit.app/))
+### 🌐 [**→ Open Live App ←**]((https://scholar-agent-pro-fzwaxyhzrsr5hmumbfynd3.streamlit.app/))
 
 *Works on any device — phone, tablet, laptop. No installation needed.*
 
@@ -260,4 +260,3 @@ If you use this project, a ⭐ star is appreciated!
 *If this helped you, give it a ⭐ — it means a lot!*
 
 </div>
-
