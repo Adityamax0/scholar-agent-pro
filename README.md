@@ -18,7 +18,7 @@
 
 <br/>
 
-### 🌐 [**→ Open Live App ←**]((https://scholar-agent-pro-fzwaxyhzrsr5hmumbfynd3.streamlit.app/))
+### 🌐 [**→ Open Live App ←**](https://scholar-agent-pro-fzwaxyhzrsr5hmumbfynd3.streamlit.app)
 
 *Works on any device — phone, tablet, laptop. No installation needed.*
 
